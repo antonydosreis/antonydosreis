@@ -1,7 +1,7 @@
-<p align = "center">
+<!-- <p align = "center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonydosreis&layout=compact&langs_count=7&theme=dark&hide_border=true" height=180/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=antonydosreis&theme=dark&hide_border=true" height=180>
-</p>
+</p> -->
   
   ##
  
